@@ -1,6 +1,6 @@
 # Final Project: CS Time Management Quiz Game
 # CS 111, Hayes & Reckinger
-# Zaid Haidry & Haider Bakhtiari
+# Authors: Zaid Haidry & Haider Bakhtiari
 # Citations:
     #"arc.gif": https://pspm.uic.edu/planning-design/campus-architecture-and-learning-environments/classrooms/completed-east-campus-classroom-projects/
     #'calendar.gif': https://pspm.uic.edu/planning-design/campus-architecture-and-learning-environments/classrooms/completed-east-campus-classroom-projects/
