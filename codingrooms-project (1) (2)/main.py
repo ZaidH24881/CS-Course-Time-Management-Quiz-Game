@@ -1,5 +1,4 @@
-# Final Project: CS Time Management Quiz Game
-# CS 111, Hayes & Reckinger
+# CS Time Management Quiz Game
 # Authors: Zaid Haidry & Haider Bakhtiari
 # Citations:
     #"arc.gif": https://pspm.uic.edu/planning-design/campus-architecture-and-learning-environments/classrooms/completed-east-campus-classroom-projects/
@@ -17,7 +16,10 @@
     #'exam.gif': https://static.vecteezy.com/system/resources/previews/007/978/235/non_2x/close-up-and-top-view-of-answers-sheet-with-blue-sharp-pencil-in-hand-and-rubber-isolated-on-white-background-top-view-of-them-take-the-exam-timely-concept-selective-focus-free-photo.JPG
     #'scenario3.gif': https://cdn.pixabay.com/photo/2016/12/15/14/32/question-mark-background-1909040_1280.png
 
-    #Program that uses Turtle graphics to test a user's observation skills on 7 different scenarios with 3 different options ranging from: poor, okay, and excellent. The user will be able to control a character using their arrow keys and moving the character to the option. A score would be stored for each option chosen and the user will receive an estimated outcome of their performance of the class. These outcomes are determined by the text file of "scores.txt".
+    #Program that uses Turtle graphics to test a user's observation skills on 7 different scenarios with 3 different 
+    #options ranging from: poor, okay, and excellent. The user will be able to control a character using their 
+    #arrow keys and moving the character to the option. A score would be stored for each option chosen and the user 
+    #will receive an estimated outcome of their performance of the class. These outcomes are determined by the text file of "scores.txt".
 
 
 
